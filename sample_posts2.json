@@ -1,0 +1,22 @@
+[
+  {"student": "Alice", "post": "Math is fun!", "tags": ["AI"], "karma": 95},
+  {"student": "Charlie", "post": "Physics is challenging!", "tags": [], "karma": 60},
+  {"student": "Bob", "post": "Web development workshop!", "tags": ["web_dev"], "karma": 85},
+  {"student": "Eve", "post": "AI for social good.", "tags": ["AI", "web_dev"], "karma": 100},
+  {"student": "Mallory", "post": "General knowledge.", "tags": [], "karma": 50},
+  {"student": "Dave", "post": "Deep learning techniques.", "tags": ["AI"], "karma": 90},
+  {"student": "Grace", "post": "Placement opportunity.", "tags": [], "karma": 97},
+  {"student": "Heidi", "post": "Workshop for beginners.", "tags": [], "karma": 83},
+  {"student": "Ivan", "post": "AI hackathon.", "tags": ["AI"], "karma": 87},
+  {"student": "Judy", "post": "Placement drives.", "tags": [], "karma": 100},
+  {"student": "Kate", "post": "Full stack project.", "tags": ["web_dev"], "karma": 79},
+  {"student": "Leo", "post": "Introduction to databases.", "tags": [], "karma": 72},
+  {"student": "Mike", "post": "Networking fundamentals.", "tags": [], "karma": 65},
+  {"student": "Nancy", "post": "Placement training.", "tags": [], "karma": 92},
+  {"student": "Oscar", "post": "Web application.", "tags": ["web_dev"], "karma": 95},
+  {"student": "Peter", "post": "AI for beginners.", "tags": ["AI"], "karma": 83},
+  {"student": "Quincy", "post": "Tech workshops.", "tags": [], "karma": 91},
+  {"student": "Ruth", "post": "AI and ML.", "tags": ["AI", "web_dev"], "karma": 96},
+  {"student": "Sam", "post": "Full stack training.", "tags": [], "karma": 78},
+  {"student": "Tina", "post": "Placement opportunity.", "tags": [], "karma": 100}
+]
